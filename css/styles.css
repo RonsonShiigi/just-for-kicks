@@ -110,3 +110,16 @@ body{
 #price8:before{
   content: '฿'
 }
+
+#increase{
+  margin-left:40%;
+
+}
+
+#decrease{
+  margin-left: 40%;
+}
+
+#inc{
+  margin-left: 35%;
+}
